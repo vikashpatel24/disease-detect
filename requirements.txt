@@ -1,0 +1,10 @@
+fastapi
+numpy
+pillow
+python-multipart
+tensorflow
+uvicorn
+jinja2
+
+
+
